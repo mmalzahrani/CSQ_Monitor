@@ -2,8 +2,8 @@
 Monitor the signal of your modem
 
 #----------------------------------------------------
-# All copyright @ https://github.com/mmalzahrani     |
-# Twitter @eng_birnar                                |
+  All copyright @ https://github.com/mmalzahrani     |
+  Twitter @eng_birnar                                |
 #----------------------------------------------------
 
 
