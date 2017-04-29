@@ -16,3 +16,6 @@ This script working by send ATI commands to the modem, then read it and show it 
 
 # Your help:
 In fact I am trying to make this script run through WIFI signal, if you can help me I really appreciate you.
+
+
+Note: This script tested on ubuntu 16.4 LTS
