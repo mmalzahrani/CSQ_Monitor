@@ -1,10 +1,10 @@
 # CSQ_Monitor
 Monitor the signal of your modem
 
-#----------------------------------------------------
+ ----------------------------------------------------
   All copyright @ https://github.com/mmalzahrani     |
   Twitter @eng_birnar                                |
-#----------------------------------------------------
+ ----------------------------------------------------
 
 
 This script working by send ATI commands to the modem, then read it and show it to the terminal.
