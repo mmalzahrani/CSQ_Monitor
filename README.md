@@ -11,7 +11,7 @@ This script working by send ATI commands to the modem, then read it and show it 
 # How use it:
 1. Plug in the modem to your machine.
 2. Run the script as root.
-2. You will see devices list, find your modem namde and type it. example (sda1).
+2. You will see devices list, find your modem namde and type it. example (usbsda1).
 3. The script will send ATI command and will filter the output to show only CSQ signal.
 
 # Your help:
